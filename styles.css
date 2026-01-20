@@ -435,6 +435,16 @@ body::before {
     transform: translateY(-6px);
 }
 
+.resume-btn {
+    margin-left: 1rem;
+    background: transparent;
+    border: 2px solid rgba(255,255,255,0.4);
+}
+
+.resume-btn:hover {
+    background: rgba(255,255,255,0.15);
+}
+
 
 
 
